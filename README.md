@@ -327,8 +327,8 @@ Click the **🤖 Update AI Insights** button on the dashboard. Requires an activ
 Financial Engineering Student — EMSI Rabat (Bac+5)
 Internship: OCP Group — Purchasing Department, Khouribga
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com](https://www.linkedin.com/in/hamza-belhaj-622100237/)](https://www.linkedin.com/in/hamza-belhaj-622100237/ )
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com](https://github.com/HamzaBLJ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-belhaj-622100237/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/HamzaBLJ)
 
 ---
 
