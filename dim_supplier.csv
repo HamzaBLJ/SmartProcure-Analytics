@@ -1,0 +1,81 @@
+supplier_id,supplier_name,supplier_tier,country,city,category_specialty,contract_start_date,contract_end_date,payment_terms_days,is_strategic,risk_score
+SUP-001,Maghreb Industrial Solutions,A,Morocco,Rabat,Safety Equipment,2019-04-01,2020-03-31,90,1,1
+SUP-002,Atlas Mining Supplies,A,Morocco,Safi,Consulting Services,2018-01-01,2019-01-01,30,1,2
+SUP-003,Casablanca Tech Partners,B,Morocco,Safi,Packaging,2019-12-01,2022-11-30,60,1,7
+SUP-004,Maroc Chimie Industries,B,Morocco,Jorf Lasfar,Safety Equipment,2018-03-01,2021-02-28,60,1,6
+SUP-005,Rif Industrial Group,A,Morocco,Agadir,Construction,2020-02-01,2021-01-31,30,1,4
+SUP-006,Souss-Massa Equipment,C,Morocco,Fes,Maintenance,2020-01-01,2022-12-31,90,1,8
+SUP-007,Tensift Logistics SA,C,Morocco,Rabat,Consulting Services,2018-09-01,2020-08-31,90,1,10
+SUP-008,Draa-Tafilalet Resources,B,Morocco,Fes,Transportation,2018-01-01,2020-12-31,60,1,4
+SUP-009,Beni Mellal Supplies,C,Morocco,Rabat,Chemical Products,2018-07-01,2020-06-30,90,1,8
+SUP-010,Khouribga Industrial Co.,A,Morocco,Fes,Energy,2019-11-01,2021-10-31,90,1,1
+SUP-011,Laayoune Mining Services,B,Morocco,Khouribga,Industrial Supplies,2019-08-01,2021-07-31,90,1,5
+SUP-012,Dakhla Resources Ltd,A,Morocco,Safi,Energy,2018-04-01,2019-04-01,60,1,3
+SUP-013,Agadir Trade Solutions,A,Morocco,Agadir,Spare Parts,2020-04-01,2023-04-01,60,1,4
+SUP-014,Fes-Meknes Industries,A,Morocco,Tanger,IT Equipment,2019-12-01,2022-11-30,90,1,3
+SUP-015,Oriental Mining Group,C,Morocco,Marrakech,Consulting Services,2020-04-01,2021-04-01,60,1,9
+SUP-016,Marrakech Logistics SA,C,Morocco,Rabat,Chemical Products,2018-03-01,2021-02-28,90,1,6
+SUP-017,Rabat Industrial Partners,B,Morocco,Marrakech,Consulting Services,2021-10-01,2023-10-01,60,1,7
+SUP-018,Tanger Med Supplies,C,Morocco,Safi,Raw Materials,2018-11-01,2021-10-31,90,1,7
+SUP-019,Oujda Industrial Services,A,Morocco,Fes,Consulting Services,2019-08-01,2020-07-31,90,1,3
+SUP-020,Safi Chemical Industries,B,Morocco,Khouribga,Logistics,2020-11-01,2023-11-01,30,1,7
+SUP-021,Nador Steel & Metal,B,Morocco,Khouribga,IT Equipment,2018-10-01,2020-09-30,30,0,6
+SUP-022,Kenitra Packaging Co.,C,Morocco,Rabat,Spare Parts,2020-04-01,2021-04-01,90,0,6
+SUP-023,Settat Agro Industries,A,Morocco,Rabat,Lab Equipment,2018-09-01,2019-09-01,90,0,2
+SUP-024,Khemisset Resources,C,Morocco,Tanger,IT Equipment,2020-09-01,2023-09-01,30,0,8
+SUP-025,Berrechid Industrial Park,C,Morocco,Safi,Transportation,2019-12-01,2021-11-30,90,0,8
+SUP-026,Benslimane Equipment,B,Morocco,Fes,Packaging,2021-02-01,2022-02-01,30,0,4
+SUP-027,El Jadida Maritime Supplies,A,Morocco,Fes,Packaging,2019-10-01,2020-09-30,30,0,1
+SUP-028,Essaouira Trading Co.,A,Morocco,Casablanca,Spare Parts,2018-06-01,2019-06-01,60,0,2
+SUP-029,Tiznit Mining Services,A,Morocco,Tanger,IT Equipment,2021-04-01,2023-04-01,30,0,4
+SUP-030,Taroudant Industrial Ltd,A,Morocco,Rabat,Consulting Services,2020-07-01,2022-07-01,90,0,4
+SUP-031,Schneider Industrial SAS,A,France,Paris,Transportation,2020-02-01,2021-01-31,30,0,2
+SUP-032,Siemens Procurement GmbH,A,Germany,Berlin,IT Equipment,2020-08-01,2021-08-01,60,0,1
+SUP-033,Veolia Environmental Services,A,Germany,Munich,Packaging,2018-02-01,2019-02-01,60,0,2
+SUP-034,Air Liquide Industrial,A,Spain,Valencia,Consulting Services,2018-03-01,2020-02-29,60,0,1
+SUP-035,TotalEnergies Supply Chain,B,Spain,Valencia,Transportation,2021-03-01,2022-03-01,30,0,5
+SUP-036,Lafarge Holcim Materials,C,France,Toulouse,Raw Materials,2020-01-01,2020-12-31,60,0,9
+SUP-037,Thales Group Systems,A,Germany,Cologne,Packaging,2018-03-01,2019-03-01,90,0,1
+SUP-038,Bureau Veritas Inspection,A,France,Bordeaux,Spare Parts,2019-10-01,2022-09-30,90,0,1
+SUP-039,SGS Quality Services,B,France,Bordeaux,Maintenance,2020-05-01,2021-05-01,30,0,5
+SUP-040,Alstom Rail & Transport,A,Spain,Valencia,Office Supplies,2020-08-01,2022-08-01,30,0,1
+SUP-041,Saint-Gobain Construction,C,Spain,Seville,Logistics,2018-09-01,2019-09-01,60,0,9
+SUP-042,Vallourec Tubes SA,C,France,Marseille,Spare Parts,2019-06-01,2021-05-31,60,0,6
+SUP-043,Eiffage Construction,B,Germany,Frankfurt,Construction,2018-11-01,2021-10-31,90,0,5
+SUP-044,Vinci Industrial Services,B,France,Lyon,Spare Parts,2018-12-01,2021-11-30,60,0,4
+SUP-045,Legrand Electrical,A,Spain,Seville,Energy,2019-11-01,2022-10-31,90,0,3
+SUP-046,SKF Bearings & Parts,C,Spain,Bilbao,Chemical Products,2018-02-01,2021-01-31,60,0,8
+SUP-047,ABB Automation Systems,B,France,Paris,IT Equipment,2020-03-01,2023-03-01,90,0,6
+SUP-048,BASF Chemical Solutions,B,Germany,Berlin,Logistics,2018-12-01,2019-12-01,30,0,7
+SUP-049,Henkel Industrial Adhesives,B,Spain,Seville,Consulting Services,2019-01-01,2020-12-31,30,0,5
+SUP-050,Linde Gas Solutions,B,Spain,Barcelona,Office Supplies,2018-06-01,2021-05-31,90,0,6
+SUP-051,Bayer MaterialScience,C,Germany,Hamburg,Industrial Supplies,2019-03-01,2021-02-28,30,0,5
+SUP-052,Evonik Specialty Chemicals,C,Germany,Frankfurt,Consulting Services,2019-05-01,2020-04-30,30,0,10
+SUP-053,Arkema Chemical Group,C,Spain,Madrid,Industrial Supplies,2019-08-01,2021-07-31,30,0,7
+SUP-054,Solvay Advanced Materials,B,France,Paris,Consulting Services,2020-05-01,2021-05-01,60,0,5
+SUP-055,Nyrstar Metal Processing,B,Germany,Cologne,Chemical Products,2020-01-01,2020-12-31,30,0,5
+SUP-056,Trelleborg Industrial,A,Germany,Frankfurt,Maintenance,2021-06-01,2024-05-31,60,0,3
+SUP-057,Sandvik Mining Tools,A,Germany,Cologne,Spare Parts,2019-05-01,2020-04-30,30,0,4
+SUP-058,Metso Outotec GmbH,B,Germany,Cologne,Transportation,2019-06-01,2021-05-31,90,0,3
+SUP-059,Sinopec Trading Co.,B,Germany,Cologne,Chemical Products,2018-12-01,2020-11-30,60,0,7
+SUP-060,CITIC Industrial Group,B,USA,Los Angeles,Transportation,2020-09-01,2021-09-01,60,0,4
+SUP-061,China Molybdenum Ltd,B,USA,Los Angeles,Spare Parts,2019-10-01,2022-09-30,60,0,5
+SUP-062,Minmetals Resources,B,USA,Houston,Industrial Supplies,2021-10-01,2024-09-30,60,0,5
+SUP-063,CNMC Mining Equipment,B,Germany,Berlin,Packaging,2021-12-01,2022-12-01,60,0,3
+SUP-064,Shandong Heavy Industry,B,USA,Dallas,Chemical Products,2019-11-01,2021-10-31,30,0,4
+SUP-065,Zhejiang Industrial Parts,A,China,Shanghai,Lab Equipment,2018-08-01,2020-07-31,90,0,2
+SUP-066,Jiangsu Packaging Corp,B,USA,Los Angeles,Industrial Supplies,2019-11-01,2022-10-31,30,0,3
+SUP-067,Shanghai Tech Solutions,A,Germany,Hamburg,Transportation,2021-01-01,2024-01-01,30,0,2
+SUP-068,Guangzhou Chemical Corp,C,Germany,Hamburg,Office Supplies,2020-08-01,2023-08-01,90,0,10
+SUP-069,Wuhan Steel & Materials,B,Germany,Cologne,IT Equipment,2021-08-01,2023-08-01,90,0,4
+SUP-070,Chengdu Equipment Co.,B,Germany,Cologne,Industrial Supplies,2020-08-01,2021-08-01,30,0,5
+SUP-071,Mitsubishi Industrial,B,Germany,Frankfurt,Packaging,2018-03-01,2019-03-01,60,0,4
+SUP-072,Sumitomo Heavy Industries,C,USA,New York,Logistics,2021-07-01,2023-07-01,60,0,9
+SUP-073,Mitsui Mining Corp,A,Germany,Munich,Consulting Services,2021-10-01,2024-09-30,90,0,1
+SUP-074,Komatsu Equipment Asia,A,Germany,Berlin,Energy,2020-07-01,2022-07-01,60,0,2
+SUP-075,Hitachi Industrial Systems,B,China,Guangzhou,Raw Materials,2021-06-01,2024-05-31,90,0,6
+SUP-076,Yokogawa Instruments,C,China,Shenzhen,Maintenance,2018-07-01,2021-06-30,90,0,9
+SUP-077,Samsung Engineering MENA,B,China,Shanghai,IT Equipment,2021-03-01,2022-03-01,60,0,5
+SUP-078,Hyundai Heavy Industries,B,Germany,Hamburg,Energy,2021-05-01,2023-05-01,30,0,5
+SUP-079,POSCO Steel & Metal,C,Germany,Munich,Raw Materials,2020-04-01,2023-04-01,90,0,5
+SUP-080,Gulf Mining International,C,China,Shanghai,Industrial Supplies,2018-10-01,2019-10-01,30,0,6

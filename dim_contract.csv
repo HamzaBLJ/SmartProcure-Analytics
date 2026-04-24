@@ -1,0 +1,121 @@
+contract_id,contract_name,supplier_id,category_id,contract_type,start_date,end_date,contract_value,currency,is_active,auto_renewal,negotiated_savings_pct
+CON-0001,China Molybdenum Ltd - Office Supplies,SUP-061,CAT-11,Framework,2023-04-01,2025-03-31,25256136,MAD,1,0,11.89
+CON-0002,Nador Steel & Metal - Safety Equipment,SUP-021,CAT-05,Framework,2023-01-01,2024-12-31,25686423,MAD,1,0,2.06
+CON-0003,Siemens Procurement GmbH - Logistics,SUP-032,CAT-02,Long-term,2021-11-01,2025-10-31,23800450,MAD,1,1,1.97
+CON-0004,Vinci Industrial Services - Raw Materials,SUP-044,CAT-01,Spot,2022-02-01,2023-02-01,31352585,EUR,0,1,3.47
+CON-0005,Shanghai Tech Solutions - Office Supplies,SUP-067,CAT-11,Spot,2023-09-01,2024-02-28,49558338,MAD,1,1,12.92
+CON-0006,Dakhla Resources Ltd - Safety Equipment,SUP-012,CAT-05,Spot,2020-08-01,2020-10-30,33672347,USD,0,0,7.83
+CON-0007,SKF Bearings & Parts - Construction,SUP-046,CAT-13,Spot,2021-05-01,2021-07-30,35170267,USD,0,0,4.38
+CON-0008,Arkema Chemical Group - Lab Equipment,SUP-053,CAT-08,Long-term,2020-12-01,2024-11-30,33438462,MAD,1,0,2.3
+CON-0009,Tiznit Mining Services - Consulting Services,SUP-029,CAT-07,Long-term,2020-05-01,2023-05-01,36129567,MAD,0,1,5.93
+CON-0010,Sinopec Trading Co. - Safety Equipment,SUP-059,CAT-05,Spot,2021-04-01,2021-06-30,21676064,MAD,0,0,3.68
+CON-0011,Minmetals Resources - Safety Equipment,SUP-062,CAT-05,Long-term,2023-09-01,2025-08-31,20380763,MAD,1,0,5.23
+CON-0012,Wuhan Steel & Materials - IT Equipment,SUP-069,CAT-03,Spot,2019-01-01,2019-04-01,43306707,USD,0,1,2.44
+CON-0013,Atlas Mining Supplies - Maintenance,SUP-002,CAT-10,Spot,2022-08-01,2022-10-30,3947833,MAD,0,1,2.6
+CON-0014,Beni Mellal Supplies - Consulting Services,SUP-009,CAT-07,Spot,2019-10-01,2019-12-30,38271525,USD,0,0,14.91
+CON-0015,Marrakech Logistics SA - Packaging,SUP-016,CAT-09,Spot,2023-10-01,2024-03-29,30733513,USD,1,1,13.04
+CON-0016,Nyrstar Metal Processing - Safety Equipment,SUP-055,CAT-05,Long-term,2023-01-01,2024-12-31,14661661,MAD,1,0,3.2
+CON-0017,Settat Agro Industries - Packaging,SUP-023,CAT-09,Framework,2020-01-01,2021-12-31,40349994,MAD,0,0,4.24
+CON-0018,Thales Group Systems - Transportation,SUP-037,CAT-12,Spot,2019-11-01,2020-10-31,40080109,EUR,0,0,6.95
+CON-0019,Chengdu Equipment Co. - Industrial Supplies,SUP-070,CAT-04,Long-term,2020-05-01,2022-05-01,11634889,EUR,0,1,7.15
+CON-0020,CITIC Industrial Group - Transportation,SUP-060,CAT-12,Spot,2022-05-01,2022-07-30,40633561,MAD,0,1,11.28
+CON-0021,Hyundai Heavy Industries - Safety Equipment,SUP-078,CAT-05,Framework,2019-04-01,2020-03-31,39171280,MAD,0,0,7.59
+CON-0022,Sandvik Mining Tools - Spare Parts,SUP-057,CAT-15,Spot,2020-10-01,2021-03-30,6623174,MAD,0,1,5.67
+CON-0023,Fes-Meknes Industries - Chemical Products,SUP-014,CAT-14,Framework,2021-07-01,2023-07-01,27373895,EUR,0,0,7.37
+CON-0024,Saint-Gobain Construction - Safety Equipment,SUP-041,CAT-05,Spot,2019-07-01,2020-06-30,31502707,MAD,0,0,8.26
+CON-0025,Gulf Mining International - Construction,SUP-080,CAT-13,Spot,2022-01-01,2023-01-01,9292148,USD,0,1,13.33
+CON-0026,CNMC Mining Equipment - Logistics,SUP-063,CAT-02,Framework,2023-04-01,2024-03-31,1417677,MAD,1,0,4.15
+CON-0027,Oriental Mining Group - Lab Equipment,SUP-015,CAT-08,Framework,2020-08-01,2022-08-01,18849234,MAD,0,1,14.72
+CON-0028,Siemens Procurement GmbH - Lab Equipment,SUP-032,CAT-08,Long-term,2020-07-01,2024-06-30,9660919,USD,1,1,11.82
+CON-0029,Solvay Advanced Materials - Energy,SUP-054,CAT-06,Long-term,2021-01-01,2024-12-31,39888723,MAD,1,1,13.11
+CON-0030,Metso Outotec GmbH - Packaging,SUP-058,CAT-09,Spot,2021-06-01,2021-11-28,13160246,USD,0,0,9.01
+CON-0031,Taroudant Industrial Ltd - Chemical Products,SUP-030,CAT-14,Spot,2019-06-01,2019-11-28,26409306,USD,0,0,7.93
+CON-0032,Rif Industrial Group - IT Equipment,SUP-005,CAT-03,Long-term,2023-06-01,2026-05-31,35795979,USD,1,0,11.11
+CON-0033,Arkema Chemical Group - Chemical Products,SUP-053,CAT-14,Long-term,2020-02-01,2023-01-31,42326230,EUR,0,0,12.92
+CON-0034,Wuhan Steel & Materials - Consulting Services,SUP-069,CAT-07,Spot,2022-09-01,2022-11-30,16255164,EUR,0,1,14.96
+CON-0035,Dakhla Resources Ltd - Consulting Services,SUP-012,CAT-07,Framework,2019-08-01,2020-07-31,2442617,MAD,0,0,5.11
+CON-0036,BASF Chemical Solutions - Consulting Services,SUP-048,CAT-07,Framework,2020-09-01,2022-09-01,12583413,MAD,0,0,9.53
+CON-0037,Henkel Industrial Adhesives - Maintenance,SUP-049,CAT-10,Long-term,2020-08-01,2022-08-01,43309055,MAD,0,1,10.34
+CON-0038,CITIC Industrial Group - Spare Parts,SUP-060,CAT-15,Spot,2023-03-01,2023-08-28,39931269,MAD,0,1,10.66
+CON-0039,Sinopec Trading Co. - Chemical Products,SUP-059,CAT-14,Spot,2020-07-01,2020-09-29,26092924,MAD,0,1,14.9
+CON-0040,Bureau Veritas Inspection - Raw Materials,SUP-038,CAT-01,Long-term,2022-05-01,2026-04-30,3791303,USD,1,1,12.66
+CON-0041,Thales Group Systems - Construction,SUP-037,CAT-13,Framework,2023-06-01,2024-05-31,42167300,MAD,1,0,9.8
+CON-0042,Souss-Massa Equipment - Safety Equipment,SUP-006,CAT-05,Spot,2019-10-01,2019-12-30,6548748,USD,0,1,11.46
+CON-0043,Settat Agro Industries - Industrial Supplies,SUP-023,CAT-04,Framework,2023-06-01,2025-05-31,32836260,USD,1,1,11.45
+CON-0044,Vinci Industrial Services - Construction,SUP-044,CAT-13,Framework,2022-02-01,2023-02-01,49101360,EUR,0,1,14.54
+CON-0045,Sumitomo Heavy Industries - Energy,SUP-072,CAT-06,Framework,2022-01-01,2024-01-01,31020173,MAD,1,1,9.18
+CON-0046,BASF Chemical Solutions - Logistics,SUP-048,CAT-02,Long-term,2020-08-01,2024-07-31,22512128,USD,1,0,10.07
+CON-0047,CITIC Industrial Group - Spare Parts,SUP-060,CAT-15,Long-term,2021-11-01,2023-11-01,3543172,USD,0,1,14.94
+CON-0048,Oriental Mining Group - Logistics,SUP-015,CAT-02,Framework,2023-03-01,2025-02-28,45495568,USD,1,1,9.22
+CON-0049,Safi Chemical Industries - Spare Parts,SUP-020,CAT-15,Spot,2019-08-01,2019-10-30,46823951,MAD,0,1,7.23
+CON-0050,Schneider Industrial SAS - Chemical Products,SUP-031,CAT-14,Spot,2019-11-01,2020-10-31,24570194,MAD,0,1,3.66
+CON-0051,Marrakech Logistics SA - Chemical Products,SUP-016,CAT-14,Spot,2019-11-01,2020-10-31,40573786,USD,0,0,12.02
+CON-0052,Siemens Procurement GmbH - IT Equipment,SUP-032,CAT-03,Long-term,2020-02-01,2024-01-31,16136276,MAD,1,0,12.04
+CON-0053,Samsung Engineering MENA - Raw Materials,SUP-077,CAT-01,Spot,2020-03-01,2020-05-30,44862827,USD,0,0,1.21
+CON-0054,Schneider Industrial SAS - Maintenance,SUP-031,CAT-10,Spot,2019-03-01,2019-05-30,28750184,MAD,0,0,7.67
+CON-0055,ABB Automation Systems - Packaging,SUP-047,CAT-09,Long-term,2019-08-01,2023-07-31,49304451,EUR,0,1,7.41
+CON-0056,Maroc Chimie Industries - Raw Materials,SUP-004,CAT-01,Spot,2022-07-01,2023-07-01,30266964,MAD,0,0,5.51
+CON-0057,Oujda Industrial Services - Logistics,SUP-019,CAT-02,Framework,2021-10-01,2023-10-01,36105066,MAD,0,1,2.39
+CON-0058,Oriental Mining Group - Chemical Products,SUP-015,CAT-14,Long-term,2023-12-01,2026-11-30,15833944,MAD,1,1,6.58
+CON-0059,Agadir Trade Solutions - Energy,SUP-013,CAT-06,Spot,2021-11-01,2022-01-30,46591779,USD,0,0,2.28
+CON-0060,Laayoune Mining Services - Logistics,SUP-011,CAT-02,Spot,2019-12-01,2020-11-30,4525255,MAD,0,1,10.38
+CON-0061,Arkema Chemical Group - Energy,SUP-053,CAT-06,Long-term,2022-12-01,2025-11-30,21468090,MAD,1,0,3.17
+CON-0062,Minmetals Resources - Industrial Supplies,SUP-062,CAT-04,Framework,2021-09-01,2023-09-01,39027199,MAD,0,1,12.83
+CON-0063,Gulf Mining International - Maintenance,SUP-080,CAT-10,Long-term,2023-01-01,2024-12-31,18838865,EUR,1,1,13.9
+CON-0064,Legrand Electrical - Raw Materials,SUP-045,CAT-01,Framework,2020-10-01,2022-10-01,42991454,USD,0,0,11.45
+CON-0065,Essaouira Trading Co. - Consulting Services,SUP-028,CAT-07,Spot,2022-06-01,2022-11-28,48925485,MAD,0,0,13.37
+CON-0066,Safi Chemical Industries - IT Equipment,SUP-020,CAT-03,Long-term,2019-11-01,2022-10-31,44921953,MAD,0,1,6.8
+CON-0067,Essaouira Trading Co. - Construction,SUP-028,CAT-13,Long-term,2019-06-01,2021-05-31,46014432,EUR,0,1,8.38
+CON-0068,Alstom Rail & Transport - Raw Materials,SUP-040,CAT-01,Framework,2022-10-01,2023-10-01,20727910,USD,0,0,11.7
+CON-0069,Bureau Veritas Inspection - Energy,SUP-038,CAT-06,Framework,2019-08-01,2021-07-31,26015289,MAD,0,0,8.0
+CON-0070,SKF Bearings & Parts - Logistics,SUP-046,CAT-02,Spot,2019-07-01,2019-09-29,21509143,MAD,0,1,10.93
+CON-0071,Solvay Advanced Materials - Safety Equipment,SUP-054,CAT-05,Framework,2022-01-01,2024-01-01,31376580,EUR,1,1,2.23
+CON-0072,Fes-Meknes Industries - Industrial Supplies,SUP-014,CAT-04,Spot,2023-07-01,2023-12-28,23284350,MAD,0,0,2.07
+CON-0073,Oriental Mining Group - Packaging,SUP-015,CAT-09,Long-term,2020-06-01,2024-05-31,10411297,MAD,1,0,4.58
+CON-0074,Settat Agro Industries - Maintenance,SUP-023,CAT-10,Framework,2019-03-01,2021-02-28,39387445,MAD,0,1,13.1
+CON-0075,Saint-Gobain Construction - IT Equipment,SUP-041,CAT-03,Spot,2019-08-01,2020-01-28,18933037,MAD,0,1,8.1
+CON-0076,Alstom Rail & Transport - Lab Equipment,SUP-040,CAT-08,Spot,2019-01-01,2019-04-01,43762834,USD,0,0,9.61
+CON-0077,Zhejiang Industrial Parts - Consulting Services,SUP-065,CAT-07,Spot,2023-09-01,2024-08-31,44244071,MAD,1,1,8.02
+CON-0078,Draa-Tafilalet Resources - Lab Equipment,SUP-008,CAT-08,Framework,2021-12-01,2022-12-01,12080232,MAD,0,1,14.87
+CON-0079,Guangzhou Chemical Corp - Packaging,SUP-068,CAT-09,Long-term,2020-06-01,2023-06-01,27932049,EUR,0,0,12.05
+CON-0080,Eiffage Construction - Logistics,SUP-043,CAT-02,Spot,2019-09-01,2020-02-28,49068943,USD,0,0,5.67
+CON-0081,Hitachi Industrial Systems - Office Supplies,SUP-075,CAT-11,Framework,2021-05-01,2023-05-01,48069045,USD,0,1,8.82
+CON-0082,Eiffage Construction - Chemical Products,SUP-043,CAT-14,Framework,2023-02-01,2025-01-31,1723430,MAD,1,0,14.32
+CON-0083,Vinci Industrial Services - Construction,SUP-044,CAT-13,Spot,2020-04-01,2020-06-30,20350271,EUR,0,0,8.11
+CON-0084,Chengdu Equipment Co. - Chemical Products,SUP-070,CAT-14,Long-term,2023-01-01,2026-12-31,40580530,MAD,1,0,3.53
+CON-0085,Gulf Mining International - Construction,SUP-080,CAT-13,Framework,2022-01-01,2024-01-01,48790577,MAD,1,1,9.55
+CON-0086,Metso Outotec GmbH - Industrial Supplies,SUP-058,CAT-04,Long-term,2020-05-01,2022-05-01,46020400,USD,0,1,7.46
+CON-0087,Thales Group Systems - Construction,SUP-037,CAT-13,Spot,2023-09-01,2023-11-30,41078277,MAD,0,1,1.73
+CON-0088,Minmetals Resources - Chemical Products,SUP-062,CAT-14,Spot,2023-02-01,2023-05-02,11258378,MAD,0,0,12.63
+CON-0089,Dakhla Resources Ltd - Spare Parts,SUP-012,CAT-15,Framework,2022-06-01,2023-06-01,27105575,MAD,0,0,6.41
+CON-0090,Laayoune Mining Services - Energy,SUP-011,CAT-06,Framework,2019-06-01,2020-05-31,23000954,EUR,0,0,1.54
+CON-0091,China Molybdenum Ltd - Transportation,SUP-061,CAT-12,Framework,2022-08-01,2023-08-01,17674764,MAD,0,0,8.68
+CON-0092,Hyundai Heavy Industries - Packaging,SUP-078,CAT-09,Spot,2019-05-01,2019-07-30,3704411,MAD,0,1,1.88
+CON-0093,Shandong Heavy Industry - Maintenance,SUP-064,CAT-10,Long-term,2019-11-01,2023-10-31,20046932,MAD,0,1,4.37
+CON-0094,Solvay Advanced Materials - IT Equipment,SUP-054,CAT-03,Long-term,2019-09-01,2021-08-31,37012722,MAD,0,0,6.47
+CON-0095,China Molybdenum Ltd - Raw Materials,SUP-061,CAT-01,Long-term,2022-06-01,2026-05-31,24464164,EUR,1,1,4.38
+CON-0096,Fes-Meknes Industries - Construction,SUP-014,CAT-13,Long-term,2021-03-01,2024-02-29,23219521,EUR,1,0,12.63
+CON-0097,CITIC Industrial Group - Transportation,SUP-060,CAT-12,Spot,2020-03-01,2020-08-28,2981940,MAD,0,0,12.08
+CON-0098,Souss-Massa Equipment - Energy,SUP-006,CAT-06,Spot,2023-07-01,2023-09-29,43912757,MAD,0,1,13.07
+CON-0099,Tensift Logistics SA - Chemical Products,SUP-007,CAT-14,Long-term,2021-05-01,2024-04-30,27345006,EUR,1,1,5.75
+CON-0100,Khemisset Resources - Lab Equipment,SUP-024,CAT-08,Long-term,2022-06-01,2024-05-31,28987690,MAD,1,0,8.64
+CON-0101,Vallourec Tubes SA - Logistics,SUP-042,CAT-02,Framework,2021-11-01,2023-11-01,40941252,EUR,0,0,10.66
+CON-0102,Legrand Electrical - Lab Equipment,SUP-045,CAT-08,Framework,2021-10-01,2023-10-01,4349234,MAD,0,1,6.09
+CON-0103,Nador Steel & Metal - Raw Materials,SUP-021,CAT-01,Framework,2023-11-01,2025-10-31,5011954,MAD,1,1,6.07
+CON-0104,Mitsui Mining Corp - Raw Materials,SUP-073,CAT-01,Long-term,2020-11-01,2023-11-01,30292261,EUR,0,0,8.41
+CON-0105,Bayer MaterialScience - Energy,SUP-051,CAT-06,Long-term,2021-04-01,2023-04-01,12985473,MAD,0,1,13.79
+CON-0106,Marrakech Logistics SA - Safety Equipment,SUP-016,CAT-05,Spot,2022-04-01,2022-09-28,13933741,MAD,0,0,7.33
+CON-0107,Sandvik Mining Tools - Logistics,SUP-057,CAT-02,Long-term,2021-11-01,2025-10-31,37409683,MAD,1,1,12.92
+CON-0108,Settat Agro Industries - Construction,SUP-023,CAT-13,Spot,2023-04-01,2023-06-30,16387096,EUR,0,0,6.05
+CON-0109,Komatsu Equipment Asia - Energy,SUP-074,CAT-06,Spot,2023-03-01,2023-08-28,27220063,USD,0,1,8.36
+CON-0110,Arkema Chemical Group - Chemical Products,SUP-053,CAT-14,Long-term,2019-03-01,2023-02-28,30697277,MAD,0,1,2.8
+CON-0111,Mitsubishi Industrial - Office Supplies,SUP-071,CAT-11,Long-term,2020-03-01,2024-02-29,8832311,MAD,1,1,3.31
+CON-0112,Vallourec Tubes SA - Spare Parts,SUP-042,CAT-15,Long-term,2020-06-01,2022-06-01,13673598,EUR,0,1,2.75
+CON-0113,SGS Quality Services - Maintenance,SUP-039,CAT-10,Long-term,2019-09-01,2023-08-31,10847802,MAD,0,1,12.8
+CON-0114,Mitsui Mining Corp - Raw Materials,SUP-073,CAT-01,Framework,2019-01-01,2020-12-31,38895477,MAD,0,0,7.97
+CON-0115,Chengdu Equipment Co. - Safety Equipment,SUP-070,CAT-05,Long-term,2021-08-01,2025-07-31,20460449,MAD,1,0,3.21
+CON-0116,Solvay Advanced Materials - Lab Equipment,SUP-054,CAT-08,Spot,2020-06-01,2021-06-01,21928960,EUR,0,1,14.66
+CON-0117,Rabat Industrial Partners - Construction,SUP-017,CAT-13,Spot,2023-09-01,2023-11-30,31804444,MAD,0,1,4.47
+CON-0118,Agadir Trade Solutions - Raw Materials,SUP-013,CAT-01,Spot,2022-10-01,2022-12-30,22473845,USD,0,1,3.66
+CON-0119,Nador Steel & Metal - Lab Equipment,SUP-021,CAT-08,Long-term,2022-08-01,2025-07-31,6543092,USD,1,1,14.53
+CON-0120,Essaouira Trading Co. - Maintenance,SUP-028,CAT-10,Spot,2019-01-01,2020-01-01,44406647,EUR,0,1,8.51

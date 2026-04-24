@@ -1,0 +1,67 @@
+==============================================================
+  SmartProcure Analytics -- Data Quality Report
+  Generated : 2026-04-22 09:25:48
+==============================================================
+
+ROW COUNTS
+----------------------------------------
+  fact_purchase_orders          5,000
+  dim_supplier                     80
+  dim_category                     15
+  dim_business_unit                 8
+  dim_contract                    120
+  dim_date                      1,461
+
+NULL COUNTS -- fact_purchase_orders
+----------------------------------------
+  po_id                                 0
+  po_date                               0
+  supplier_id                           0
+  category_id                           0
+  business_unit_id                      0
+  contract_id                       1,987
+  quantity_ordered                      0
+  unit_price                            0
+  total_amount                          0
+  po_cycle_time_days                    0
+  actual_delivery_date                  0
+  requested_delivery_date               0
+  is_on_time                            0
+  delivery_variance_days                0
+  defect_rate_pct                       0
+  payment_terms_days                    0
+  po_status                             0
+
+VALUE RANGES -- fact_purchase_orders
+----------------------------------------
+  total_amount (MAD)            min=    2,367.65  max= 82,331,382.09
+  unit_price (MAD)              min=        9.62  max=  7,254,493.98
+  quantity_ordered              min=        1.00  max=        500.00
+  po_cycle_time_days            min=        2.00  max=         45.00
+  defect_rate_pct               min=        0.00  max=         15.00
+  delivery_variance_days        min=       -3.00  max=         20.00
+
+ANOMALY & BUSINESS-RULE SUMMARY
+----------------------------------------
+  Anomalous orders (8% target)   :   422  (8.4%)
+  Maverick spend (no contract)   : 1,987  (39.7%)
+  Cancelled orders (5% target)   :   247  (4.9%)
+
+SPEND BY PO STATUS
+----------------------------------------
+  Cancelled      247 orders         345,216,904 MAD
+  Completed    4,287 orders       6,442,782,289 MAD
+  Pending        466 orders         763,333,387 MAD
+
+DELIVERY PERFORMANCE BY SUPPLIER TIER
+----------------------------------------
+  Tier A  orders=1,736  on-time=90.9%  avg_defect=1.48%  avg_cycle=8.4d
+  Tier B  orders=1,956  on-time=78.5%  avg_defect=4.39%  avg_cycle=18.8d
+  Tier C  orders=1,308  on-time=60.9%  avg_defect=9.05%  avg_cycle=30.1d
+
+YEAR-OVER-YEAR SPEND (excl. Cancelled)
+----------------------------------------
+  2021         1,507,767,552 MAD  (baseline)
+  2022         1,688,699,658 MAD  YoY +12.0%
+  2023         1,891,343,617 MAD  YoY +12.0%
+  2024         2,118,304,851 MAD  YoY +12.0%

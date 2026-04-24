@@ -1,0 +1,16 @@
+category_id,category_name,category_group,budget_annual,criticality_level
+CAT-01,Raw Materials,Direct,45000000,High
+CAT-02,Logistics,Indirect,18000000,High
+CAT-03,IT Equipment,Indirect,12000000,Medium
+CAT-04,Industrial Supplies,Direct,30000000,High
+CAT-05,Safety Equipment,Indirect,8000000,High
+CAT-06,Energy,Direct,35000000,High
+CAT-07,Consulting Services,Indirect,15000000,Medium
+CAT-08,Lab Equipment,Direct,10000000,Medium
+CAT-09,Packaging,Direct,20000000,Medium
+CAT-10,Maintenance,Indirect,25000000,High
+CAT-11,Office Supplies,Indirect,4000000,Low
+CAT-12,Transportation,Indirect,22000000,Medium
+CAT-13,Construction,Direct,50000000,High
+CAT-14,Chemical Products,Direct,40000000,High
+CAT-15,Spare Parts,Direct,28000000,Medium

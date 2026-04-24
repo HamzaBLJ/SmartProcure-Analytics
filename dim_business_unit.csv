@@ -1,0 +1,9 @@
+business_unit_id,business_unit_name,region,annual_budget,budget_owner
+BU-01,Mining Operations,Khouribga,120000000,Ahmed Benali
+BU-02,Processing Plant,Jorf Lasfar,95000000,Mohammed Ezzine
+BU-03,Logistics,Casablanca,45000000,Fatima Chraibi
+BU-04,R&D,Benguerir,30000000,Youssef Alami
+BU-05,Corporate,Casablanca,25000000,Nadia Fassi
+BU-06,HSE,Khouribga,20000000,Rachid Ouali
+BU-07,Finance,Casablanca,15000000,Laila Bennani
+BU-08,IT,Casablanca,18000000,Karim Tahiri
